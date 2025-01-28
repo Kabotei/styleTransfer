@@ -40,7 +40,7 @@ Voici un aperçu des résultats obtenus avec différentes combinaisons d'images 
 
 | Contenu                | Style                  | Résultat             |
 |------------------------|------------------------|----------------------|
-| ![Contenu](dataset\content\Tuebingen_Neckarfront.jpg) | ![Style](dataset\style\Van_Gogh.jpg) | ![Résultat](result\Tuebingen_VanGogh\Clone\result_5000_0.000800_0.800000.png) |
+| ![Contenu](dataset/content/Tuebingen_Neckarfront.jpg) | ![Style](dataset/style/Van_Gogh.jpg) | ![Résultat](result/Tuebingen_VanGogh/Clone/result_5000_0.000800_0.800000.png) |
 
 ## Références
 
