@@ -17,12 +17,6 @@ Assurez-vous d'avoir installé les dépendances nécessaires avant d'exécuter l
 - NumPy
 - Matplotlib
 
-Pour installer les bibliothèques, exécutez :
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Utilisation
 
 1. Clonez le repository :
